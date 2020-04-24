@@ -1,0 +1,4 @@
+Host github
+    HostName github.com
+    IdentityFile sample_rsa
+    User git
